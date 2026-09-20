@@ -1,16 +1,67 @@
-## Hi there 👋
-
-<!--
-**damien1141/damien1141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="justify">
+  <p align="left">
+    <strong>
+      <samp>「</samp>
+    </strong>
+  </p>
+  <p align="center">
+    <samp>
+        hey there 👋
+      </b>
+      <br />
+    </samp>
+  </p>
+    <div align="center">
+      <table>
+        <tr>
+          <td>
+            <a href="https://github.com/damien1141/github-stats#gh-dark-mode-only">
+              <img
+                align="center"
+                src="https://github.com/damien1141/github-stats/blob/generated/overview.svg#gh-dark-mode-only"
+              />
+            </a>
+            <a href="https://github.com/damien1141/github-stats#gh-light-mode-only">
+              <img
+                align="center"
+                src="https://github.com/damien1141/github-stats/blob/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only"
+              />
+            </a>
+          </td>
+          <td>
+            <a href="https://github.com/damien1141/github-stats#gh-dark-mode-only">
+              <img
+                align="center"
+                src="https://github.com/damien1141/github-stats/blob/generated/languages.svg#gh-dark-mode-only"
+              />
+            </a>
+            <a href="https://github.com/damien1141/github-stats#gh-light-mode-only">
+              <img
+                align="center"
+                src="https://github.com/damien1141/github-stats/blob/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only"
+              />
+            </a>
+          </td>
+        </tr>
+      </table>
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lucide.png" alt="Lucide" title="Lucide"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bun_js.png" alt="Bun.js" title="Bun.js"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/astro.png" alt="Astro" title="Astro"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png" alt="Lua" title="Lua"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fish.png" alt="Fish" title="Fish"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytorch.png" alt="PyTorch" title="PyTorch"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/huggingface.png" alt="Hugging Face" title="Hugging Face"/></code>
+</div>
+  <p align="right">
+    <strong>
+      <samp>」</samp>
+    </strong>
+  </p>
