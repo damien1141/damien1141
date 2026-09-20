@@ -4,46 +4,14 @@
       <samp>「</samp>
     </strong>
   </p>
-  <p align="center">
+  <h1 align="center">
     <samp>
         hey there 👋
       </b>
       <br />
     </samp>
-  </p>
+  </h1>
     <div align="center">
-      <table>
-        <tr>
-          <td>
-            <a href="https://github.com/damien1141/github-stats#gh-dark-mode-only">
-              <img
-                align="center"
-                src="https://github.com/damien1141/github-stats/blob/generated/overview.svg#gh-dark-mode-only"
-              />
-            </a>
-            <a href="https://github.com/damien1141/github-stats#gh-light-mode-only">
-              <img
-                align="center"
-                src="https://github.com/damien1141/github-stats/blob/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only"
-              />
-            </a>
-          </td>
-          <td>
-            <a href="https://github.com/damien1141/github-stats#gh-dark-mode-only">
-              <img
-                align="center"
-                src="https://github.com/damien1141/github-stats/blob/generated/languages.svg#gh-dark-mode-only"
-              />
-            </a>
-            <a href="https://github.com/damien1141/github-stats#gh-light-mode-only">
-              <img
-                align="center"
-                src="https://github.com/damien1141/github-stats/blob/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only"
-              />
-            </a>
-          </td>
-        </tr>
-      </table>
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
